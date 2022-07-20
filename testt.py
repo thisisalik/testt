@@ -19,3 +19,4 @@ def model(request,pk):
     lat_a=web_id.objects.values_list('lat_a')[0][0]
    
     print(lat_a)
+    #just comment
